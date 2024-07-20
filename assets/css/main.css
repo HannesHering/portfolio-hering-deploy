@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "rekron";
+    src: url("/static/fonts/nclrekron-regular.otf") format("opentype");
+  }
+
+@font-face {
+    font-family: 'outfit';
+    src: url("/static/fonts/Outfit-VariableFont_wght.ttf") format("truetype");
+}

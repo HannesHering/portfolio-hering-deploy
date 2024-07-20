@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1718731489328,
+      "tag": "0000_sleepy_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1718902720683,
+      "tag": "0001_absent_betty_brant",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1718912578234,
+      "tag": "0002_quiet_jimmy_woo",
+      "breakpoints": true
+    }
+  ]
+}

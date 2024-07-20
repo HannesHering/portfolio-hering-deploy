@@ -1,0 +1,1 @@
+ALTER TABLE `commentRequest` ADD `project` text NOT NULL;

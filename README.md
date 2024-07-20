@@ -1,5 +1,8 @@
 # Nuxt 3 Minimal Starter
 
+## Link to deployed App
+# https://sensational-taiyaki-3c3722.netlify.app/de
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup

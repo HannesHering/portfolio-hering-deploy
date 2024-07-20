@@ -26,6 +26,11 @@
               >LinkedIn</a
             >
           </li>
+          <li
+            class="w-fit mb-10 hover:text-accent-primary transition-all duration-300"
+          >
+            <NuxtLink :to="localePath('/legalInformation')">{{ $t("legalInformation") }}</NuxtLink>
+          </li>
         </ul>
       </div>
     </NuxtLayout>
